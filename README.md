@@ -52,6 +52,9 @@ flowchart LR
     C --> D[📊 Build Dashboard]
     D --> E[🎤 Present to Stakeholders]
     E --> F[💡 Strategic Decisions]
+    F ~~~ G[" "]
+    style G fill:none,stroke:none
+
 ```
 
 ---
