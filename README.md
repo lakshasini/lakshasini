@@ -107,20 +107,48 @@ Notes and beginner-friendly exercises on ethical hacking and security fundamenta
 
 ---
 
-## 📊 GitHub Activity & Metrics
+## 📊 My GitHub Dashboard
 
-*This section shows my coding activity on GitHub: commits, contributions, streaks, and the languages I use most. It grows as I build and learn.*
+*Just like a business dashboard, this tracks my progress over time: what I'm building, how consistently I'm coding, and what I'm learning. Every number here will grow as I do.*
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lakshasini&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=lakshasini&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshasini&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
+### 🔹 Key Performance Indicators
 
----
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/lakshasini&query=$.public_repos&label=PUBLIC%20REPOS&color=00B4D8&style=for-the-badge" alt="Public repos" /></td>
+    <td align="center"><img src="https://img.shields.io/github/followers/lakshasini?label=FOLLOWERS&color=0077B6&style=for-the-badge" alt="Followers" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-023E8A?style=for-the-badge" alt="Focus" /></td>
+    <td align="center"><img src="https://komarev.com/ghpvc/?username=lakshasini&label=PROFILE%20VIEWS&color=48CAE4&style=for-the-badge" alt="Profile views" /></td>
+  </tr>
+</table>
+
+### 🔹 Performance Overview
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lakshasini&show_icons=true&bg_color=0D1B2A&title_color=00B4D8&text_color=E0E1DD&icon_color=48CAE4&border_color=1B263B" alt="GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=lakshasini&background=0D1B2A&ring=00B4D8&fire=48CAE4&currStreakNum=E0E1DD&sideNums=E0E1DD&currStreakLabel=00B4D8&sideLabels=48CAE4&dates=8D99AE&border=1B263B" alt="GitHub streak" />
+
+### 🔹 Contribution Trend
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshasini&bg_color=0D1B2A&color=48CAE4&line=00B4D8&point=E0E1DD&area=true&area_color=00B4D8&hide_border=true" alt="Contribution trend" />
+
+### 🔹 Technology Mix
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshasini&layout=donut&bg_color=0D1B2A&title_color=00B4D8&text_color=E0E1DD&border_color=1B263B" alt="Most used languages" />
+
+### 🔹 Learning Progress Tracker
+
+| Skill | Progress | Status |
+|:---|:---|:---|
+| 🐍 **Python** | `▰▰▰▱▱▱▱▱▱▱` 30% | Learning fundamentals |
+| 🗃️ **SQL** | `▰▰▱▱▱▱▱▱▱▱` 20% | Learning queries |
+| 🔐 **Cybersecurity** | `▰▱▱▱▱▱▱▱▱▱` 10% | Exploring basics |
+| 🇫🇷 **French** | `▰▰▰▰▰▰▰▰▱▱` 80% | |
+
+*Self-assessed and updated as I learn.*
+
+</div>
 
 ## 💭 My Philosophy
 
