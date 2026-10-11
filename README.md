@@ -133,6 +133,7 @@ Notes and beginner-friendly exercises on ethical hacking and security fundamenta
 ### 🔹 Contribution Trend
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshasini&bg_color=0D1B2A&color=48CAE4&line=00B4D8&point=E0E1DD&area=true&area_color=00B4D8&hide_border=true&radius=6" alt="Contribution trend" />
+
 ### 🔹 Technology Mix
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshasini&layout=donut&bg_color=0D1B2A&title_color=00B4D8&text_color=E0E1DD&border_color=1B263B" alt="Most used languages" />
