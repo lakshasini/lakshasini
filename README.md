@@ -120,8 +120,9 @@ Notes and beginner-friendly exercises on ethical hacking and security fundamenta
     <td align="center"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/lakshasini&query=$.public_repos&label=PUBLIC%20REPOS&color=00B4D8&style=for-the-badge" alt="Public repos" /></td>
     <td align="center"><img src="https://img.shields.io/github/followers/lakshasini?label=FOLLOWERS&color=0077B6&style=for-the-badge" alt="Followers" /></td>
     <td align="center"><img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-023E8A?style=for-the-badge" alt="Focus" /></td>
-    <td align="center"><img src="https://komarev.com/ghpvc/?username=lakshasini&label=PROFILE%20VIEWS&color=48CAE4&style=for-the-badge" alt="Profile views" /></td>
-  </tr>
+<td align="center"><img src="https://img.shields.io/badge/PROFILE-VISITOR-48CAE4?style=for-the-badge&logo=github&logoColor=white" alt="Profile views" />
+</td> 
+</tr>
 </table>
 
 ### 🔹 Performance Overview
@@ -131,8 +132,7 @@ Notes and beginner-friendly exercises on ethical hacking and security fundamenta
 
 ### 🔹 Contribution Trend
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshasini&bg_color=0D1B2A&color=48CAE4&line=00B4D8&point=E0E1DD&area=true&area_color=00B4D8&hide_border=true" alt="Contribution trend" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshasini&bg_color=0D1B2A&color=48CAE4&line=00B4D8&point=E0E1DD&area=true&area_color=00B4D8&hide_border=true&radius=6" alt="Contribution trend" />
 ### 🔹 Technology Mix
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshasini&layout=donut&bg_color=0D1B2A&title_color=00B4D8&text_color=E0E1DD&border_color=1B263B" alt="Most used languages" />
