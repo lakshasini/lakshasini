@@ -29,7 +29,7 @@
 |---|---|
 | **Languages** | SQL, Python |
 | **Operating Systems** | Windows |
-| **Tools & Environments** | Git, GitHub, VS Code |
+| **Tools & Environments** | GitHub, VS Code |
 | **Spoken / Learning Languages** | English, French (learning) |
 
 <p>
