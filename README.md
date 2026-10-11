@@ -130,9 +130,9 @@ Notes and beginner-friendly exercises on ethical hacking and security fundamenta
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=lakshasini&show_icons=true&bg_color=0D1B2A&title_color=00B4D8&text_color=E0E1DD&icon_color=48CAE4&border_color=1B263B" alt="GitHub stats" />
 <img height="170" src="https://streak-stats.demolab.com?user=lakshasini&background=0D1B2A&ring=00B4D8&fire=48CAE4&currStreakNum=E0E1DD&sideNums=E0E1DD&currStreakLabel=00B4D8&sideLabels=48CAE4&dates=8D99AE&border=1B263B" alt="GitHub streak" />
 
-### 🔹 Contribution Trend
+### 🔹 Contribution Summary
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshasini&theme=tokyonight&hide_border=true" alt="Contribution trend" />
+<img src="https://img.shields.io/github/commit-activity/m/lakshasini/lakshasini?style=for-the-badge&color=00B4D8&label=PROFILE%20COMMITS" alt="Commit Activity" />
 
 ### 🔹 Technology Mix
 
